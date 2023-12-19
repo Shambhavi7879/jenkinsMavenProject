@@ -8,7 +8,7 @@ public class jenkinsTest {
 	@Test
 	public void sample()
 	{
-		Reporter.log("Jenkins added");
+		Reporter.log("Jenkins added",true);
 	}
 	
 
