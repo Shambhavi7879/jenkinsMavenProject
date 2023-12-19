@@ -13,6 +13,7 @@ public class pollSCMTest {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://demowebshop.tricentis.com/");
 		Reporter.log("onPollScnTest Executed",true);
+		Reporter.log("done",true);
 	}
 
 }
